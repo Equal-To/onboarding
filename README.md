@@ -24,17 +24,25 @@ Power BI Learning: <https://powerbi.microsoft.com/en-us/learning/>
 
 ##### SQL
 Codecademy: <https://www.codecademy.com/catalog/language/sql>
+
 W3 Schools: <https://www.w3schools.com/sql/>
+
 KhanAcademy: <https://www.khanacademy.org/computing/computer-programming/sql>
 
 ##### R
 Data Camp: <https://www.datacamp.com/tracks/skill>
+
 R-Bloggers: <https://www.r-bloggers.com/how-to-learn-r-2/>
+
 RStudio: <https://www.rstudio.com/online-learning/>
+
 CRAN: <https://cran.r-project.org/>
 
 ##### Python
 Data Camp: <https://www.datacamp.com/tracks/skill>
+
 Codecademy: <https://www.codecademy.com/catalog/language/python>
+
 Automate the Boring Stuff with Python: <https://automatetheboringstuff.com/>
+
 LearnPython.org: <https://www.learnpython.org/>
